@@ -9,8 +9,6 @@ This is a personal portfolio website showcasing my projects, skills, and contact
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
